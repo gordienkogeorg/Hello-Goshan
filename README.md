@@ -1,2 +1,3 @@
 # Hello-Goshan
-This repository welcomeы only Goshans
+This repository welcome only Goshans
+Darova Ilya
